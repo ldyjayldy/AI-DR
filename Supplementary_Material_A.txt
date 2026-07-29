@@ -1,0 +1,1010 @@
+===== Sampling Validation Report =====
+Sampled records: 200
+
+Inter-rater agreement (Cohen's κ):
+  AI Models: 0.8287
+  Data Modalities: 0.8461
+  Disease Entities: 0.8127
+
+===== Sampled DOIs =====
+1. 10.18240/ijo.2023.09.05
+2. 10.32604/cmc.2020.012887
+3. 10.1049/cje.2020.09.001
+4. 10.21037/atm-2022-71
+5. 10.1007/s11892-022-01467-y
+6. 10.1007/s11042-018-7044-8
+7. 10.1109/ACCESS.2024.3477420
+8. 10.1007/s11831-023-10002-5
+9. 10.23919/elinfocom.2019.8706431
+10. 10.1080/08820538.2020.1855358
+11. 10.3233/JIFS-220772
+12. 10.21037/atm-2022-73
+13. 10.1109/ACCESS.2024.3415617
+14. 10.47974/JIM-1836
+15. 10.1134/S1064230724700138
+16. 10.4018/JDM.368006
+17. 10.1145/3470976
+18. 10.1007/978-981-19-5550-1_24
+19. 10.3390/diagnostics13101816
+20. 10.4239/wjd.v13.i10.822
+21. 10.1007/978-981-96-7502-9_6
+22. 10.4103/ijo.IJO_966_19
+23. 10.1111/ceo.13381
+24. 10.1093/jamiaopen/ooab066
+25. 10.1080/17469899.2024.2328620
+26. 10.1186/s13098-024-01447-0
+27. 10.1109/JCSSE54890.2022.9836245
+28. 10.3390/jimaging7090165
+29. 10.2174/1573405616666200213114026
+30. 10.1109/ACCESS.2025.3583647
+31. 10.1007/978-981-97-1326-4_18
+32. 10.1038/s41433-018-0269-y
+33. 10.3389/fendo.2022.946915
+34. 10.3390/diagnostics15060737
+35. 10.1109/ICABME53305.2021.9604812
+36. 10.3389/fcell.2023.1133680
+37. 10.1007/s13721-025-00647-6
+38. 10.20535/RADAP.2023.94.49-57
+39. 10.3390/math8091620
+40. 10.7717/peerj-cs.1947
+41. 10.1080/13682199.2023.2168851
+42. 10.4103/ijo.IJO_644_22
+43. 10.1007/978-981-19-3679-1_13
+44. 10.22608/APO.2018479
+45. 10.3389/fmed.2021.710329
+46. 10.1007/978-3-030-94191-8_37
+47. 10.1016/j.survophthal.2018.09.002
+48. 10.1002/dmrr.3414
+49. 10.3389/fpubh.2022.971943
+50. 10.3390/bdcc6040152
+51. 10.1016/j.artmed.2025.103221
+52. 10.1097/ICU.0000000000000680
+53. 10.1186/s12938-025-01336-1
+54. 10.1109/ACCESS.2020.2980055
+55. 10.1109/ACCESS.2022.3217216
+56. 10.1080/09720510.2018.1466965
+57. 10.3390/medicina58111681
+58. 10.1007/s10916-021-01783-y
+59. 10.1136/bmjophth-2022-001140
+60. 10.1109/ACCESS.2024.3469537
+61. 10.1007/978-3-031-98768-7_43
+62. 10.4015/S1016237223500084
+63. 10.1109/CONECCT55679.2022.9865837
+64. 10.7150/thno.38065
+65. 10.1038/s41433-019-0566-0
+66. 10.1109/EHB52898.2021.9657666
+67. 10.1007/s40135-020-00240-2
+68. 10.1109/ICOEI53556.2022.9777156
+69. 10.3390/app13053108
+70. 10.1109/CITRExCompanion65208.2025.10981490
+71. 10.1109/ACCESS.2024.3494840
+72. 10.1007/s13369-025-10827-1
+73. 10.3390/jcm13164776
+74. 10.1109/ACCESS.2024.3475550
+75. 10.1080/23311916.2021.1920707
+76. 10.1097/01.APO.0000656980.41190.bf
+77. 10.3390/diagnostics13193116
+78. 10.3390/bdcc6040154
+79. 10.1007/978-3-030-39412-4_47
+80. 10.3390/jcm11174945
+81. 10.3390/jcm14145150
+82. 10.1016/j.preteyeres.2018.07.004
+83. 10.1080/02713683.2020.1764975
+84. 10.1117/1.JMI.8.6.060901
+85. 10.1007/978-3-319-67534-3_16
+86. 10.1161/CIRCRESAHA.121.318224
+87. 10.1186/s40662-020-00182-7
+88. 10.1007/s13246-021-01012-3
+89. 10.1016/j.artmed.2019.07.009
+90. 10.1109/ACCESS.2025.3566073
+91. 10.1007/s00521-021-06042-2
+92. 10.1016/j.jfo.2020.08.009
+93. 10.1007/s40123-023-00691-3
+94. 10.1016/j.ailsci.2021.100003
+95. 10.1177/15353702211026581
+96. 10.5755/j02.eie.38674
+97. 10.1007/s13198-026-03306-9
+98. 10.32604/cmc.2025.066987
+99. 10.1111/den.13880
+100. 10.1007/s11042-023-15110-9
+101. 10.3390/app10062021
+102. 10.1007/s11892-019-1189-3
+103. 10.3389/fcell.2024.1473176
+104. 10.1109/ACCESS.2021.3139129
+105. 10.1167/tvst.9.2.35
+106. 10.1080/08820538.2024.2432902
+107. 10.7759/cureus.67844
+108. 10.1109/GECOST55694.2022.10010468
+109. 10.1097/ICU.0000000000000470
+110. 10.1117/12.2529450
+111. 10.1109/COMPSAC54236.2022.00229
+112. 10.1007/s13410-025-01523-9
+113. 10.1007/s00347-018-0708-y
+114. 10.3390/biomimetics9080465
+115. 10.1016/j.cegh.2025.102170
+116. 10.1007/s10462-025-11453-x
+117. 10.1007/s00138-021-01253-y
+118. 10.18502/jovr.v18i1.12730
+119. 10.11604/pamj.2021.38.184.28197
+120. 10.1167/tvst.9.2.22
+121. 10.3892/etm.2020.9118
+122. 10.1093/bmb/ldaa012
+123. 10.1080/01969722.2022.2151176
+124. 10.1007/s00417-022-05818-z
+125. 10.1109/ACCESS.2024.3427394
+126. 10.1002/ima.70152
+127. 10.1109/ACCESS.2023.3326528
+128. 10.22608/APO.201976
+129. 10.1016/j.survophthal.2025.09.008
+130. 10.2174/1389450121666200708120646
+131. 10.1186/s40942-021-00352-2
+132. 10.1167/tvst.11.2.39
+133. 10.1007/978-981-96-6060-5_15
+134. 10.1097/ICU.0000000000000741
+135. 10.1016/j.artmed.2023.102617
+136. 10.31449/inf.v45i5.3561
+137. 10.3390/electronics12214411
+138. 10.1016/j.compeleceng.2022.108014
+139. 10.1109/ICICT50816.2021.9358801
+140. 10.1186/s40662-024-00376-3
+141. 10.1016/j.ijleo.2019.163328
+142. 10.3390/s22051803
+143. 10.1080/23311916.2026.2653310
+144. 10.3390/diagnostics13030345
+145. 10.1177/1932296820985567
+146. 10.1007/978-3-031-87657-8_16
+147. 10.1049/iet-ipr.2017.0636
+148. 10.1038/s42003-021-01697-y
+149. 10.1109/AIIOT52608.2021.9454244
+150. 10.32604/iasc.2023.031661
+151. 10.3390/diagnostics14171846
+152. 10.3390/app13116569
+153. 10.1007/s12652-020-01963-7
+154. 10.1007/978-3-031-58181-6_3
+155. 10.1097/ICU.0000000000000593
+156. 10.1109/JBHI.2020.3012547
+157. 10.1109/INTCEC61833.2024.10603094
+158. 10.1063/5.0042204
+159. 10.1080/17453674.2019.1711323
+160. 10.1155/2022/7040141
+161. 10.3390/electronics11172634
+162. 10.1080/17469899.2026.2633800
+163. 10.4103/IJO.IJO_3152_25
+164. 10.1007/s10462-022-10185-6
+165. 10.1109/ICCE-TAIWAN55306.2022.9869142
+166. 10.28919/cmbn/5660
+167. 10.1145/3650400.3650666
+168. 10.1007/s11517-023-02810-5
+169. 10.3390/diagnostics12010134
+170. 10.1109/ACCESS.2025.3556765
+171. 10.1186/s41232-019-0103-3
+172. 10.31449/inf.v45i7.3774
+173. 10.1007/s13534-017-0047-y
+174. 10.1007/978-3-030-38040-3_18
+175. 10.1038/s41598-024-81132-4
+176. 10.1038/s41598-024-82884-9
+177. 10.4103/ijo.IJO_1754_19
+178. 10.1007/978-3-030-37218-7_143
+179. 10.1007/s11277-021-08817-1
+180. 10.1016/j.exer.2026.111046
+181. 10.4103/ijo.IJO_1015_22
+182. 10.1109/ACCESS.2019.2918625
+183. 10.3389/fcell.2024.1513971
+184. 10.1016/j.bspc.2022.103952
+185. 10.3991/ijoe.v18i13.33985
+186. 10.1038/s41598-025-09394-0
+187. 10.3390/app14114428
+188. 10.1007/s00417-024-06396-y
+189. 10.1016/j.compmedimag.2020.101818
+190. 10.18280/ts.410219
+191. 10.1142/S0219691320500484
+192. 10.32604/cmc.2022.026729
+193. 10.1117/1.JMI.7.3.034501
+194. 10.1117/12.2293434
+195. 10.1109/ICICS55353.2022.9811197
+196. 10.1109/IRI.2018.00074
+197. 10.1007/s10916-025-02280-2
+198. 10.1080/21642583.2024.2436664
+199. 10.1097/ICU.0000000000000788
+200. 10.18280/ts.400631
+
+===== Manual Annotation Records =====
+Record 1: DOI = 10.18240/ijo.2023.09.05
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 2: DOI = 10.32604/cmc.2020.012887
+Annotator 1: Models=['Inception'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['Inception'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 3: DOI = 10.1049/cje.2020.09.001
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 4: DOI = 10.21037/atm-2022-71
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy']
+
+Record 5: DOI = 10.1007/s11892-022-01467-y
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 6: DOI = 10.1007/s11042-018-7044-8
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 7: DOI = 10.1109/ACCESS.2024.3477420
+Annotator 1: Models=['SVM', 'CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'AMD', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=['CNN', 'SVM'], Modalities=['Fundus Photography'], Diseases=['AMD', 'Best Disease', 'Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+
+Record 8: DOI = 10.1007/s11831-023-10002-5
+Annotator 1: Models=['Transformer', 'ViT'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=['Transformer', 'ViT'], Modalities=[], Diseases=['Best Disease', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 9: DOI = 10.23919/elinfocom.2019.8706431
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 10: DOI = 10.1080/08820538.2020.1855358
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy']
+
+Record 11: DOI = 10.3233/JIFS-220772
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 12: DOI = 10.21037/atm-2022-73
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 13: DOI = 10.1109/ACCESS.2024.3415617
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 14: DOI = 10.47974/JIM-1836
+Annotator 1: Models=['Gradient Boosting', 'CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'Gradient Boosting'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 15: DOI = 10.1134/S1064230724700138
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+
+Record 16: DOI = 10.4018/JDM.368006
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 17: DOI = 10.1145/3470976
+Annotator 1: Models=['CNN'], Modalities=['Ultrasound', 'MRI'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['MRI', 'Ultrasound'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+
+Record 18: DOI = 10.1007/978-981-19-5550-1_24
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+
+Record 19: DOI = 10.3390/diagnostics13101816
+Annotator 1: Models=['SVM', 'CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'SVM'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 20: DOI = 10.4239/wjd.v13.i10.822
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'AMD', 'Retinopathy', 'Retinopathy of Prematurity']
+Annotator 2: Models=[], Modalities=[], Diseases=['AMD', 'Diabetic Retinopathy', 'Glaucoma', 'Retinopathy of Prematurity']
+
+Record 21: DOI = 10.1007/978-981-96-7502-9_6
+Annotator 1: Models=['SVM', 'CNN'], Modalities=['Fundus Photography', 'MRI'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'SVM'], Modalities=['Fundus Photography', 'MRI'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 22: DOI = 10.4103/ijo.IJO_966_19
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Macular Edema', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Retinopathy']
+
+Record 23: DOI = 10.1111/ceo.13381
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'AMD', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['AMD', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 24: DOI = 10.1093/jamiaopen/ooab066
+Annotator 1: Models=[], Modalities=['Clinical Text'], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=[], Modalities=['Clinical Text'], Diseases=['Best Disease', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 25: DOI = 10.1080/17469899.2024.2328620
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'AMD', 'Retinal Vein Occlusion', 'Retinopathy', 'Retinopathy of Prematurity']
+Annotator 2: Models=[], Modalities=[], Diseases=['AMD', 'Diabetic Retinopathy', 'Retinal Vein Occlusion', 'Retinopathy', 'Retinopathy of Prematurity']
+
+Record 26: DOI = 10.1186/s13098-024-01447-0
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Macular Edema', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Macular Edema', 'Retinopathy']
+
+Record 27: DOI = 10.1109/JCSSE54890.2022.9836245
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 28: DOI = 10.3390/jimaging7090165
+Annotator 1: Models=[], Modalities=['Fundus Photography', 'OCT'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography', 'OCT'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 29: DOI = 10.2174/1573405616666200213114026
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 30: DOI = 10.1109/ACCESS.2025.3583647
+Annotator 1: Models=[], Modalities=['Fundus Photography', 'OCT'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['OCT'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 31: DOI = 10.1007/978-981-97-1326-4_18
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 32: DOI = 10.1038/s41433-018-0269-y
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 33: DOI = 10.3389/fendo.2022.946915
+Annotator 1: Models=[], Modalities=['Fundus Photography', 'OCT'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography', 'OCT'], Diseases=['Retinopathy']
+
+Record 34: DOI = 10.3390/diagnostics15060737
+Annotator 1: Models=['CNN', 'Transformer', 'ViT'], Modalities=['OCT', 'OCTA'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'Transformer', 'ViT'], Modalities=['OCT', 'OCTA'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 35: DOI = 10.1109/ICABME53305.2021.9604812
+Annotator 1: Models=['SVM', 'CNN'], Modalities=['OCT', 'OCTA'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'SVM'], Modalities=['OCT', 'OCTA'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 36: DOI = 10.3389/fcell.2023.1133680
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'AMD', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['AMD', 'Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+
+Record 37: DOI = 10.1007/s13721-025-00647-6
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Retinopathy']
+
+Record 38: DOI = 10.20535/RADAP.2023.94.49-57
+Annotator 1: Models=['CNN', 'ResNet', 'EfficientNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=['CNN', 'EfficientNet', 'ResNet'], Modalities=['Fundus Photography'], Diseases=['Best Disease', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 39: DOI = 10.3390/math8091620
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=[], Modalities=[], Diseases=['Best Disease', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 40: DOI = 10.7717/peerj-cs.1947
+Annotator 1: Models=['CNN', 'RNN', 'GAN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'GAN', 'RNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 41: DOI = 10.1080/13682199.2023.2168851
+Annotator 1: Models=['SVM', 'K-Means', 'CNN', 'RNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'K-Means', 'RNN', 'SVM'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 42: DOI = 10.4103/ijo.IJO_644_22
+Annotator 1: Models=[], Modalities=[], Diseases=[]
+Annotator 2: Models=[], Modalities=[], Diseases=[]
+
+Record 43: DOI = 10.1007/978-981-19-3679-1_13
+Annotator 1: Models=['SVM', 'U-Net'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['SVM', 'U-Net'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 44: DOI = 10.22608/APO.2018479
+Annotator 1: Models=[], Modalities=['Fundus Photography', 'OCT', 'Demographics'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'AMD', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Demographics', 'Fundus Photography', 'OCT'], Diseases=['AMD', 'Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+
+Record 45: DOI = 10.3389/fmed.2021.710329
+Annotator 1: Models=[], Modalities=[], Diseases=[]
+Annotator 2: Models=[], Modalities=[], Diseases=[]
+
+Record 46: DOI = 10.1007/978-3-030-94191-8_37
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 47: DOI = 10.1016/j.survophthal.2018.09.002
+Annotator 1: Models=[], Modalities=[], Diseases=[]
+Annotator 2: Models=[], Modalities=[], Diseases=[]
+
+Record 48: DOI = 10.1002/dmrr.3414
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 49: DOI = 10.3389/fpubh.2022.971943
+Annotator 1: Models=['Inception'], Modalities=['Fundus Photography', 'OCT'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'AMD', 'Macular Edema', 'Retinopathy', 'Diabetic Macular Edema']
+Annotator 2: Models=['Inception'], Modalities=['Fundus Photography', 'OCT'], Diseases=['AMD', 'Diabetic Macular Edema', 'Diabetic Retinopathy', 'Glaucoma', 'Macular Edema', 'Retinopathy']
+
+Record 50: DOI = 10.3390/bdcc6040152
+Annotator 1: Models=['GAN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['GAN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 51: DOI = 10.1016/j.artmed.2025.103221
+Annotator 1: Models=[], Modalities=['Fundus Photography', 'OCT', 'OCTA', 'Fluorescein Angiography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fluorescein Angiography', 'Fundus Photography', 'OCT', 'OCTA'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 52: DOI = 10.1097/ICU.0000000000000680
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Retinopathy', 'Retinopathy of Prematurity']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Retinopathy', 'Retinopathy of Prematurity']
+
+Record 53: DOI = 10.1186/s12938-025-01336-1
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 54: DOI = 10.1109/ACCESS.2020.2980055
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 55: DOI = 10.1109/ACCESS.2022.3217216
+Annotator 1: Models=['Random Forest', 'AdaBoost', 'PCA', 'CNN', 'ResNet', 'DenseNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['AdaBoost', 'CNN', 'DenseNet', 'PCA', 'Random Forest', 'ResNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 56: DOI = 10.1080/09720510.2018.1466965
+Annotator 1: Models=['SVM', 'CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'SVM'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 57: DOI = 10.3390/medicina58111681
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 58: DOI = 10.1007/s10916-021-01783-y
+Annotator 1: Models=[], Modalities=['Fundus Photography', 'OCT'], Diseases=['Diabetic Retinopathy', 'Macular Edema', 'Retinopathy', 'Diabetic Macular Edema', 'Choroidal Neovascularization']
+Annotator 2: Models=[], Modalities=['Fundus Photography', 'OCT'], Diseases=['Choroidal Neovascularization', 'Diabetic Macular Edema', 'Diabetic Retinopathy', 'Macular Edema', 'Retinopathy']
+
+Record 59: DOI = 10.1136/bmjophth-2022-001140
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 60: DOI = 10.1109/ACCESS.2024.3469537
+Annotator 1: Models=['ResNet', 'DenseNet'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['DenseNet', 'ResNet'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 61: DOI = 10.1007/978-3-031-98768-7_43
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 62: DOI = 10.4015/S1016237223500084
+Annotator 1: Models=['CNN', 'GAN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'GAN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 63: DOI = 10.1109/CONECCT55679.2022.9865837
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=[], Modalities=[], Diseases=['Best Disease', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 64: DOI = 10.7150/thno.38065
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=[]
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=[]
+
+Record 65: DOI = 10.1038/s41433-019-0566-0
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 66: DOI = 10.1109/EHB52898.2021.9657666
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 67: DOI = 10.1007/s40135-020-00240-2
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'AMD', 'Retinopathy', 'Retinopathy of Prematurity']
+Annotator 2: Models=[], Modalities=[], Diseases=['AMD', 'Diabetic Retinopathy', 'Retinopathy', 'Retinopathy of Prematurity']
+
+Record 68: DOI = 10.1109/ICOEI53556.2022.9777156
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 69: DOI = 10.3390/app13053108
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 70: DOI = 10.1109/CITRExCompanion65208.2025.10981490
+Annotator 1: Models=['CNN'], Modalities=['OCT', 'OCTA'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['OCT', 'OCTA'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 71: DOI = 10.1109/ACCESS.2024.3494840
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 72: DOI = 10.1007/s13369-025-10827-1
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Retinopathy']
+
+Record 73: DOI = 10.3390/jcm13164776
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 74: DOI = 10.1109/ACCESS.2024.3475550
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 75: DOI = 10.1080/23311916.2021.1920707
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'AMD', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['AMD', 'Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+
+Record 76: DOI = 10.1097/01.APO.0000656980.41190.bf
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'AMD', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['AMD', 'Glaucoma', 'Retinopathy']
+
+Record 77: DOI = 10.3390/diagnostics13193116
+Annotator 1: Models=['VGG', 'Inception', 'Xception'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Retinal Detachment']
+Annotator 2: Models=['Inception', 'VGG', 'Xception'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinal Detachment', 'Retinopathy']
+
+Record 78: DOI = 10.3390/bdcc6040154
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 79: DOI = 10.1007/978-3-030-39412-4_47
+Annotator 1: Models=['Inception', 'ResNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinal Vein Occlusion', 'Retinopathy']
+Annotator 2: Models=['Inception', 'ResNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinal Vein Occlusion', 'Retinopathy']
+
+Record 80: DOI = 10.3390/jcm11174945
+Annotator 1: Models=['ResNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['ResNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 81: DOI = 10.3390/jcm14145150
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 82: DOI = 10.1016/j.preteyeres.2018.07.004
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 83: DOI = 10.1080/02713683.2020.1764975
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 84: DOI = 10.1117/1.JMI.8.6.060901
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 85: DOI = 10.1007/978-3-319-67534-3_16
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Macular Edema', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Macular Edema', 'Retinopathy']
+
+Record 86: DOI = 10.1161/CIRCRESAHA.121.318224
+Annotator 1: Models=[], Modalities=[], Diseases=[]
+Annotator 2: Models=[], Modalities=[], Diseases=[]
+
+Record 87: DOI = 10.1186/s40662-020-00182-7
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 88: DOI = 10.1007/s13246-021-01012-3
+Annotator 1: Models=['SVM', 'Random Forest', 'CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=['CNN', 'Random Forest', 'SVM'], Modalities=['Fundus Photography'], Diseases=['Best Disease', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 89: DOI = 10.1016/j.artmed.2019.07.009
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 90: DOI = 10.1109/ACCESS.2025.3566073
+Annotator 1: Models=['SVM', 'CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'SVM'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 91: DOI = 10.1007/s00521-021-06042-2
+Annotator 1: Models=['SVM', 'CNN', 'Inception'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'Inception', 'SVM'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 92: DOI = 10.1016/j.jfo.2020.08.009
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Retinopathy']
+
+Record 93: DOI = 10.1007/s40123-023-00691-3
+Annotator 1: Models=[], Modalities=['Clinical Text'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Clinical Text'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 94: DOI = 10.1016/j.ailsci.2021.100003
+Annotator 1: Models=[], Modalities=[], Diseases=[]
+Annotator 2: Models=[], Modalities=[], Diseases=[]
+
+Record 95: DOI = 10.1177/15353702211026581
+Annotator 1: Models=[], Modalities=['OCT', 'OCTA'], Diseases=[]
+Annotator 2: Models=[], Modalities=['OCT', 'OCTA'], Diseases=[]
+
+Record 96: DOI = 10.5755/j02.eie.38674
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Best Disease', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 97: DOI = 10.1007/s13198-026-03306-9
+Annotator 1: Models=['Random Forest', 'XGBoost', 'LightGBM', 'CNN', 'Transformer', 'GAT'], Modalities=['Fundus Photography', 'OCT', 'Fluorescein Angiography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'GAT', 'LightGBM', 'Random Forest', 'Transformer', 'XGBoost'], Modalities=['Fluorescein Angiography', 'Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 98: DOI = 10.32604/cmc.2025.066987
+Annotator 1: Models=['CNN', 'RNN', 'GAN', 'RL'], Modalities=['Ultrasound', 'MRI', 'CT'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'GAN', 'RNN'], Modalities=['CT', 'MRI', 'Ultrasound'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 99: DOI = 10.1111/den.13880
+Annotator 1: Models=[], Modalities=['Ultrasound'], Diseases=[]
+Annotator 2: Models=[], Modalities=['Ultrasound'], Diseases=[]
+
+Record 100: DOI = 10.1007/s11042-023-15110-9
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Retinal Detachment']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinal Detachment', 'Retinopathy']
+
+Record 101: DOI = 10.3390/app10062021
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Best Disease', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 102: DOI = 10.1007/s11892-019-1189-3
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 103: DOI = 10.3389/fcell.2024.1473176
+Annotator 1: Models=[], Modalities=['Fundus Photography', 'Proteomics'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography', 'Proteomics'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 104: DOI = 10.1109/ACCESS.2021.3139129
+Annotator 1: Models=['CNN', 'EfficientNet'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'EfficientNet'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 105: DOI = 10.1167/tvst.9.2.35
+Annotator 1: Models=['CNN', 'VGG'], Modalities=['OCT', 'OCTA'], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=['CNN', 'VGG'], Modalities=['OCT', 'OCTA'], Diseases=['Best Disease', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 106: DOI = 10.1080/08820538.2024.2432902
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 107: DOI = 10.7759/cureus.67844
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography', 'Clinical Text'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Clinical Text', 'Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 108: DOI = 10.1109/GECOST55694.2022.10010468
+Annotator 1: Models=['SVM'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['SVM'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 109: DOI = 10.1097/ICU.0000000000000470
+Annotator 1: Models=[], Modalities=['Fundus Photography', 'OCT'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'AMD', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography', 'OCT'], Diseases=['AMD', 'Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+
+Record 110: DOI = 10.1117/12.2529450
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 111: DOI = 10.1109/COMPSAC54236.2022.00229
+Annotator 1: Models=['CNN', 'Inception', 'ResNet', 'EfficientNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'EfficientNet', 'Inception', 'ResNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 112: DOI = 10.1007/s13410-025-01523-9
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 113: DOI = 10.1007/s00347-018-0708-y
+Annotator 1: Models=['CNN'], Modalities=['OCT'], Diseases=[]
+Annotator 2: Models=['CNN'], Modalities=['OCT'], Diseases=[]
+
+Record 114: DOI = 10.3390/biomimetics9080465
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Best Disease']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Best Disease']
+
+Record 115: DOI = 10.1016/j.cegh.2025.102170
+Annotator 1: Models=['Random Forest', 'CNN', 'GNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=['CNN', 'GNN', 'Random Forest'], Modalities=['Fundus Photography'], Diseases=['Best Disease', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 116: DOI = 10.1007/s10462-025-11453-x
+Annotator 1: Models=['CNN', 'AlexNet', 'Inception', 'ResNet', 'DenseNet', 'EfficientNet', 'ConvNeXt', 'U-Net'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Macular Edema', 'Retinopathy', 'Diabetic Macular Edema']
+Annotator 2: Models=['AlexNet', 'CNN', 'ConvNeXt', 'DenseNet', 'EfficientNet', 'Inception', 'ResNet', 'U-Net'], Modalities=[], Diseases=['Diabetic Macular Edema', 'Diabetic Retinopathy', 'Macular Edema', 'Retinopathy']
+
+Record 117: DOI = 10.1007/s00138-021-01253-y
+Annotator 1: Models=['SVM', 'Autoencoder'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['Autoencoder', 'SVM'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 118: DOI = 10.18502/jovr.v18i1.12730
+Annotator 1: Models=[], Modalities=['Visual Field'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'Macular Edema', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Visual Field'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+
+Record 119: DOI = 10.11604/pamj.2021.38.184.28197
+Annotator 1: Models=[], Modalities=[], Diseases=[]
+Annotator 2: Models=[], Modalities=[], Diseases=[]
+
+Record 120: DOI = 10.1167/tvst.9.2.22
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 121: DOI = 10.3892/etm.2020.9118
+Annotator 1: Models=[], Modalities=['OCT'], Diseases=[]
+Annotator 2: Models=[], Modalities=['OCT'], Diseases=[]
+
+Record 122: DOI = 10.1093/bmb/ldaa012
+Annotator 1: Models=[], Modalities=[], Diseases=['Glaucoma']
+Annotator 2: Models=[], Modalities=[], Diseases=['Glaucoma']
+
+Record 123: DOI = 10.1080/01969722.2022.2151176
+Annotator 1: Models=['CNN', 'Inception', 'ResNet'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'Inception', 'ResNet'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 124: DOI = 10.1007/s00417-022-05818-z
+Annotator 1: Models=['SVM'], Modalities=['OCT', 'OCTA'], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=['SVM'], Modalities=['OCT', 'OCTA'], Diseases=['Best Disease', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 125: DOI = 10.1109/ACCESS.2024.3427394
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 126: DOI = 10.1002/ima.70152
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 127: DOI = 10.1109/ACCESS.2023.3326528
+Annotator 1: Models=['CNN', 'VGG', 'ResNet', 'Transformer', 'ViT'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'ResNet', 'Transformer', 'VGG', 'ViT'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 128: DOI = 10.22608/APO.201976
+Annotator 1: Models=[], Modalities=['Fundus Photography', 'OCT'], Diseases=['Diabetic Retinopathy', 'Macular Edema', 'Retinopathy', 'Diabetic Macular Edema']
+Annotator 2: Models=[], Modalities=['Fundus Photography', 'OCT'], Diseases=['Diabetic Macular Edema', 'Diabetic Retinopathy', 'Macular Edema', 'Retinopathy']
+
+Record 129: DOI = 10.1016/j.survophthal.2025.09.008
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 130: DOI = 10.2174/1389450121666200708120646
+Annotator 1: Models=[], Modalities=['OCT'], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Retinopathy of Prematurity']
+Annotator 2: Models=[], Modalities=['OCT'], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Retinopathy of Prematurity']
+
+Record 131: DOI = 10.1186/s40942-021-00352-2
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy']
+
+Record 132: DOI = 10.1167/tvst.11.2.39
+Annotator 1: Models=['CNN'], Modalities=['OCT', 'OCTA', 'Fluorescein Angiography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Fluorescein Angiography', 'OCT', 'OCTA'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 133: DOI = 10.1007/978-981-96-6060-5_15
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 134: DOI = 10.1097/ICU.0000000000000741
+Annotator 1: Models=[], Modalities=['Fundus Photography', 'OCT', 'Visual Field'], Diseases=['Glaucoma']
+Annotator 2: Models=[], Modalities=['Fundus Photography', 'OCT', 'Visual Field'], Diseases=['Glaucoma']
+
+Record 135: DOI = 10.1016/j.artmed.2023.102617
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 136: DOI = 10.31449/inf.v45i5.3561
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 137: DOI = 10.3390/electronics12214411
+Annotator 1: Models=['CNN', 'RNN', 'GAN'], Modalities=[], Diseases=[]
+Annotator 2: Models=['CNN', 'GAN', 'RNN'], Modalities=[], Diseases=[]
+
+Record 138: DOI = 10.1016/j.compeleceng.2022.108014
+Annotator 1: Models=['DenseNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['DenseNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 139: DOI = 10.1109/ICICT50816.2021.9358801
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 140: DOI = 10.1186/s40662-024-00376-3
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'AMD', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['AMD', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 141: DOI = 10.1016/j.ijleo.2019.163328
+Annotator 1: Models=['SVM'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['SVM'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 142: DOI = 10.3390/s22051803
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 143: DOI = 10.1080/23311916.2026.2653310
+Annotator 1: Models=['CNN', 'U-Net'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'U-Net'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 144: DOI = 10.3390/diagnostics13030345
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 145: DOI = 10.1177/1932296820985567
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 146: DOI = 10.1007/978-3-031-87657-8_16
+Annotator 1: Models=['CNN', 'VGG', 'Inception', 'ResNet', 'DenseNet', 'MobileNet'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'DenseNet', 'Inception', 'MobileNet', 'ResNet', 'VGG'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 147: DOI = 10.1049/iet-ipr.2017.0636
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 148: DOI = 10.1038/s42003-021-01697-y
+Annotator 1: Models=['CNN'], Modalities=['OCT'], Diseases=[]
+Annotator 2: Models=['CNN'], Modalities=['OCT'], Diseases=[]
+
+Record 149: DOI = 10.1109/AIIOT52608.2021.9454244
+Annotator 1: Models=['CNN', 'VGG'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+Annotator 2: Models=['CNN', 'VGG'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+
+Record 150: DOI = 10.32604/iasc.2023.031661
+Annotator 1: Models=['Gradient Boosting', 'CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'Gradient Boosting'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 151: DOI = 10.3390/diagnostics14171846
+Annotator 1: Models=['CNN'], Modalities=['Fluorescein Angiography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Fluorescein Angiography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 152: DOI = 10.3390/app13116569
+Annotator 1: Models=['CNN', 'ResNet', 'Transformer', 'MobileViT'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'MobileViT', 'ResNet', 'Transformer'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 153: DOI = 10.1007/s12652-020-01963-7
+Annotator 1: Models=['SVM', 'Decision Tree', 'Naive Bayes', 'XGBoost', 'PCA'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['Decision Tree', 'Naive Bayes', 'SVM', 'XGBoost'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 154: DOI = 10.1007/978-3-031-58181-6_3
+Annotator 1: Models=['CNN', 'VGG', 'ResNet', 'DenseNet'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'DenseNet', 'ResNet'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 155: DOI = 10.1097/ICU.0000000000000593
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Retinopathy', 'Myopia', 'Retinopathy of Prematurity']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Myopia', 'Retinopathy of Prematurity']
+
+Record 156: DOI = 10.1109/JBHI.2020.3012547
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 157: DOI = 10.1109/INTCEC61833.2024.10603094
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 158: DOI = 10.1063/5.0042204
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 159: DOI = 10.1080/17453674.2019.1711323
+Annotator 1: Models=[], Modalities=['CT'], Diseases=[]
+Annotator 2: Models=[], Modalities=['CT'], Diseases=[]
+
+Record 160: DOI = 10.1155/2022/7040141
+Annotator 1: Models=['SVM', 'KNN', 'CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'SVM'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy']
+
+Record 161: DOI = 10.3390/electronics11172634
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy']
+
+Record 162: DOI = 10.1080/17469899.2026.2633800
+Annotator 1: Models=[], Modalities=['Fundus Photography', 'OCT', 'Visual Field'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography', 'OCT'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+
+Record 163: DOI = 10.4103/IJO.IJO_3152_25
+Annotator 1: Models=['CNN', 'GAN'], Modalities=['Fundus Photography', 'OCT'], Diseases=['Diabetic Retinopathy', 'Macular Edema', 'Retinopathy', 'Diabetic Macular Edema']
+Annotator 2: Models=['CNN', 'GAN'], Modalities=['Fundus Photography', 'OCT'], Diseases=['Diabetic Macular Edema', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 164: DOI = 10.1007/s10462-022-10185-6
+Annotator 1: Models=['SVM', 'CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'SVM'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 165: DOI = 10.1109/ICCE-TAIWAN55306.2022.9869142
+Annotator 1: Models=['Inception', 'EfficientNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=['EfficientNet', 'Inception'], Modalities=['Fundus Photography'], Diseases=['Best Disease', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 166: DOI = 10.28919/cmbn/5660
+Annotator 1: Models=['CNN', 'ResNet', 'DenseNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'DenseNet', 'ResNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 167: DOI = 10.1145/3650400.3650666
+Annotator 1: Models=['CNN', 'VGG', 'GoogleNet', 'ResNet', 'DenseNet', 'EfficientNet'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'DenseNet', 'EfficientNet', 'GoogleNet', 'ResNet', 'VGG'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 168: DOI = 10.1007/s11517-023-02810-5
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 169: DOI = 10.3390/diagnostics12010134
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'AMD', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['AMD', 'Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+
+Record 170: DOI = 10.1109/ACCESS.2025.3556765
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 171: DOI = 10.1186/s41232-019-0103-3
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=[]
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=[]
+
+Record 172: DOI = 10.31449/inf.v45i7.3774
+Annotator 1: Models=['CNN', 'ResNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'ResNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 173: DOI = 10.1007/s13534-017-0047-y
+Annotator 1: Models=['PCA', 'LDA', 'CNN', 'AlexNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['AlexNet', 'CNN', 'LDA', 'PCA'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 174: DOI = 10.1007/978-3-030-38040-3_18
+Annotator 1: Models=['SVM', 'Random Forest', 'AlexNet', 'VGG', 'LSTM'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=['AlexNet', 'LSTM', 'Random Forest', 'SVM', 'VGG'], Modalities=[], Diseases=['Best Disease', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 175: DOI = 10.1038/s41598-024-81132-4
+Annotator 1: Models=['CNN', 'EfficientNet'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'EfficientNet'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 176: DOI = 10.1038/s41598-024-82884-9
+Annotator 1: Models=['CNN', 'ResNeXt', 'R-CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=['CNN', 'R-CNN'], Modalities=['Fundus Photography'], Diseases=['Best Disease', 'Retinopathy']
+
+Record 177: DOI = 10.4103/ijo.IJO_1754_19
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'AMD', 'Retinopathy', 'Retinopathy of Prematurity']
+Annotator 2: Models=[], Modalities=[], Diseases=['AMD', 'Diabetic Retinopathy', 'Glaucoma', 'Retinopathy', 'Retinopathy of Prematurity']
+
+Record 178: DOI = 10.1007/978-3-030-37218-7_143
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'Retinopathy']
+
+Record 179: DOI = 10.1007/s11277-021-08817-1
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 180: DOI = 10.1016/j.exer.2026.111046
+Annotator 1: Models=['CNN', 'U-Net', 'Transformer', 'ViT'], Modalities=['OCT', 'OCTA'], Diseases=['Diabetic Retinopathy', 'Macular Edema', 'Retinopathy']
+Annotator 2: Models=['CNN', 'Transformer', 'U-Net', 'ViT'], Modalities=['OCT', 'OCTA'], Diseases=['Diabetic Retinopathy', 'Macular Edema', 'Retinopathy']
+
+Record 181: DOI = 10.4103/ijo.IJO_1015_22
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Glaucoma', 'AMD', 'Retinopathy', 'Retinopathy of Prematurity']
+Annotator 2: Models=[], Modalities=[], Diseases=['AMD', 'Diabetic Retinopathy', 'Glaucoma', 'Retinopathy', 'Retinopathy of Prematurity']
+
+Record 182: DOI = 10.1109/ACCESS.2019.2918625
+Annotator 1: Models=['Random Forest'], Modalities=['Clinical Text'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['Random Forest'], Modalities=['Clinical Text'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 183: DOI = 10.3389/fcell.2024.1513971
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography', 'Radiomics'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Fundus Photography', 'Radiomics'], Diseases=['Diabetic Retinopathy']
+
+Record 184: DOI = 10.1016/j.bspc.2022.103952
+Annotator 1: Models=['GCN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Macular Edema', 'Retinopathy', 'Diabetic Macular Edema']
+Annotator 2: Models=['GCN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Macular Edema', 'Diabetic Retinopathy', 'Macular Edema', 'Retinopathy']
+
+Record 185: DOI = 10.3991/ijoe.v18i13.33985
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 186: DOI = 10.1038/s41598-025-09394-0
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'AMD', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['AMD', 'Best Disease', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 187: DOI = 10.3390/app14114428
+Annotator 1: Models=['CNN'], Modalities=['Demographics'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Demographics'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 188: DOI = 10.1007/s00417-024-06396-y
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 189: DOI = 10.1016/j.compmedimag.2020.101818
+Annotator 1: Models=[], Modalities=['OCT', 'Visual Field'], Diseases=['Glaucoma']
+Annotator 2: Models=[], Modalities=['OCT', 'Visual Field'], Diseases=['Glaucoma']
+
+Record 190: DOI = 10.18280/ts.410219
+Annotator 1: Models=['Decision Tree', 'Random Forest'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['Decision Tree', 'Random Forest'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 191: DOI = 10.1142/S0219691320500484
+Annotator 1: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 192: DOI = 10.32604/cmc.2022.026729
+Annotator 1: Models=['MobileNet', 'GRU'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['GRU', 'MobileNet'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 193: DOI = 10.1117/1.JMI.7.3.034501
+Annotator 1: Models=[], Modalities=[], Diseases=[]
+Annotator 2: Models=[], Modalities=[], Diseases=[]
+
+Record 194: DOI = 10.1117/12.2293434
+Annotator 1: Models=['SVM', 'CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'SVM'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 195: DOI = 10.1109/ICICS55353.2022.9811197
+Annotator 1: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 196: DOI = 10.1109/IRI.2018.00074
+Annotator 1: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN'], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 197: DOI = 10.1007/s10916-025-02280-2
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy', 'Best Disease']
+Annotator 2: Models=[], Modalities=[], Diseases=['Best Disease', 'Diabetic Retinopathy', 'Retinopathy']
+
+Record 198: DOI = 10.1080/21642583.2024.2436664
+Annotator 1: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=[], Modalities=[], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+
+Record 199: DOI = 10.1097/ICU.0000000000000788
+Annotator 1: Models=[], Modalities=[], Diseases=[]
+Annotator 2: Models=[], Modalities=[], Diseases=[]
+
+Record 200: DOI = 10.18280/ts.400631
+Annotator 1: Models=['CNN', 'RNN', 'DBN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy', 'Retinopathy']
+Annotator 2: Models=['CNN', 'DBN', 'RNN'], Modalities=['Fundus Photography'], Diseases=['Diabetic Retinopathy']
